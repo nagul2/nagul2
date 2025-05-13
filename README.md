@@ -1,8 +1,28 @@
-## 백엔드 개발자가 되기위해 노력하고 있습니다
+<h3 align="center">✨ 백엔드 개발자가 되기 위해 노력하고 있습니다 ✨</h3>
 
-현재 Java와 Spring, Spring Boot 기반의 백엔드 개발에 집중하여 공부하고 있으며, Docker, AWS에도 관심이 있어 조금씩 공부를 함께 하고 있습니다.
+<p align="center">
+현재 <b>Java</b>와 <b>Spring Boot</b> 기반의 백엔드 개발을 집중적으로 공부하고 있으며,<br>
+<b>Docker</b>, <b>AWS</b> 등 실무 인프라 기술에도 관심을 가지고 학습 중입니다.
+</p>
 
-- 🛠️ 기술 스택: Java, Spring, Spring Boot, MySQL
+---
 
+### 🛠️ Tech Stack
+- **Language & Framework**: `Java`, `Spring`, `Spring Boot`
+- **Database**: `MySQL`
+- **Infra & DevOps**: `Docker`, `AWS EC2`, `RDS`, `S3` (학습 중)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 연락처
+- ✉️ Email: <hayani0000@gmail.com>
+- 📝 블로그: [개인 공부 기록 블로그](https://nagul2.tistory.com/)
+
+---
