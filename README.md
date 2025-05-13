@@ -1,4 +1,4 @@
-<h3 align="center">✨ 백엔드 개발자가 되기 위해 노력하고 있습니다 ✨</h3>
+<h3 align="center"> 백엔드 개발자가 되기 위해 노력하고 있습니다 </h3>
 
 <p align="center">
 현재 <b>Java</b>와 <b>Spring Boot</b> 기반의 백엔드 개발을 집중적으로 공부하고 있으며,<br>
