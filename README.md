@@ -9,8 +9,8 @@
 
 ### 🛠️ Tech Stack
 - **Language & Framework**: `Java`, `Spring`, `Spring Boot`
-- **Database**: `MySQL`
-- **Infra & DevOps**: `Docker`, `AWS EC2`, `RDS`, `S3` (학습 중)
+- **Database**: `MySQL`, `Redis`
+- **Infra & DevOps**: `Docker`, `AWS`
 
 ---
 
