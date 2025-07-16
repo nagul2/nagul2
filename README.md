@@ -44,8 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
 </p>
 
----
-
 ### 📫 Contact
 - ✉️ **Email**: <hayani0000@gmail.com>
 - 📝 **Blog**: [개인 공부 기록 블로그](https://nagul2.tistory.com/)
