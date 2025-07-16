@@ -1,4 +1,4 @@
-<h3 align="center">신인 백엔드 개발자를 꿈꾸는 전나겸입니다.</h3>
+<h3 align="center">신입 백엔드 개발자를 꿈꾸는 전나겸입니다.</h3>
 
 <p align="center">
   <b>Java</b>와 <b>Spring Boot</b>를 중심으로 이유있고 안정적인 백엔드 시스템을 구축하고자 공부하고 있습니다..<br>
