@@ -1,7 +1,7 @@
 <h3 align="center">신입 백엔드 개발자를 꿈꾸는 전나겸입니다.</h3>
 
 <p align="center">
-  <b>Java</b>와 <b>Spring Boot</b>를 중심으로 이유있고 안정적인 백엔드 시스템을 구축하고자 공부하고 있습니다..<br>
+  <b>Java, Kotlin</b>과 <b>Spring Boot</b>를 중심으로 이유있고 안정적인 백엔드 시스템을 구축하고자 공부하고 있습니다.<br>
   단순한 코드 작성을 넘어, <b>비즈니스 로직을 이해</b>하고 <b>안정적인 인프라</b> 위에서 동작하는 서비스를 만드는 것을 목표로 학습하고 있습니다.
 </p>
 
@@ -17,15 +17,18 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <br><br>
 
 **Database**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <br><br>
   
 **DevOps & Infra**<br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
