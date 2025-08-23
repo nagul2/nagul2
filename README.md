@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Querydsl-8C2EAA?style=for-the-badge&logo=java&logoColor=white"/>
 <br><br>
 
 **Database**<br>
