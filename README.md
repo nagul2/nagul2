@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact&hide=HTML&hide_border=true&cache_seconds=86400&v=1" />
+  <img src="https://fork-github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact&hide=HTML&hide_border=true&cache_seconds=86400&v=1" />
 </p>
 
 ### 📫 Contact
