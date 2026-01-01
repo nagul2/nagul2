@@ -45,8 +45,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagul2&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/
+?username=nagul2
+&layout=compact
+&hide=HTML
+&theme=default
+&hide_border=true" /></p>
 
 ### 📫 Contact
 - ✉️ **Email**: <hayani0000@gmail.com>
