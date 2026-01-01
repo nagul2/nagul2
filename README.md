@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&hide=HTML&hide_border=true" />
+  <img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&hide=HTML&hide=CSS&hide_border=true" />
 </p>
 
 ### 📫 Contact
