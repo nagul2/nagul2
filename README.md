@@ -21,6 +21,13 @@
 <img src="https://img.shields.io/badge/Querydsl-8C2EAA?style=for-the-badge&logo=java&logoColor=white"/>
 <br><br>
 
+**Frontend**<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-E32F26?style=for-the-badge&logo=java&logoColor=white"/>
+<br><br>
+
 **Database**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
