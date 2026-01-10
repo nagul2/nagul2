@@ -55,5 +55,6 @@
 </p>
 
 ### 📫 Contact
-- ✉️ **Email**: <hayani0000@gmail.com>
-- 📝 **Blog**: [개인 공부 기록 블로그](https://nagul2.tistory.com/)
+- **Email**: <hayani0000@gmail.com>
+- **study history**: [노션 공부 기록](https://alkaline-earth-ef5.notion.site/233eb3cc19858064b0e5eff3d41101df)
+- **Blog**: [블로그](https://nagul2.tistory.com/)
