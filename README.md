@@ -1,30 +1,22 @@
 <h3 align="center">
-  AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개발자 전나겸입니다.
+AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개발자 전나겸입니다.
 </h3>
 
-<p align="center">
-  <b>Backend</b><br>
-  Java, Kotlin과 Spring 기반으로 안정적인 백엔드 시스템을 설계하고 구현하기 위해 지속적으로 학습하고 있습니다.<br>
-  단순 기능 구현에 그치지 않고, <b>비즈니스 로직을 이해한 설계</b>를 바탕으로
-  과도한 최적화보다는 <b>일정에 맞는 개발 속도</b>와
-  <b>모니터링을 통한 근거 있는 개선</b>을 지향합니다.<br>
-  Actuator 기반 헬스체크와 메트릭 수집,
-  Prometheus·Grafana를 활용한 지표 모니터링을 통해
-  <b>운영 환경을 고려한 합리적인 성능 개선</b>을 목표로 하고 있습니다.
-</p>
+---
 
-<p align="center">
-  <b>Frontend</b><br>
-  AI 시대에 요구되는 풀스택 역량을 갖추기 위해 JavaScript를 기반으로 프론트엔드 기술을 학습하고 있습니다.<br>
-  React를 중심으로 사용자 경험을 고려한 화면을 구현하며,
-  <b>TypeScript와 Next.js 16</b>을 학습하며 확장성과 유지보수성을 고려한 프론트엔드 개발 역량을 키워가고 있습니다.
-</p>
+### Backend
+- Java, Kotlin, Spring 기반으로 비즈니스 로직을 고려한 설계를 바탕으로 안정적인 백엔드 시스템을 구현하는 역량을 키워가고 있습니다.
+- 과도한 최적화보다는 일정에 맞는 개발 속도를 우선하며, 모니터링을 통해 측정 기반의 합리적인 성능 개선을 지향합니다.
+
+---
+
+### Frontend
+- AI 시대에 요구되는 풀스택 역량을 갖추기 위해 JavaScript, TypeScript 기반 프론트엔드 기술을 학습하고 있습니다.
+- React, Next.js를 기반으로 사용자 경험을 고려한 화면을 구현하며, 사용자 편의성·성능·유지보수를 함께 고려한 구조를 고민하고 있습니다.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-<div align="center">
 
 **Backend**<br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -73,9 +65,7 @@
 </div>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&size_weight=0.5&count_weight=0.5&hide=HTML,CSS&hide_border=true" />
-</p>
+<img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&size_weight=0.5&count_weight=0.5&hide=HTML,CSS&hide_border=true" />
 
 ### 📫 Contact
 - **Email**: <hayani0000@gmail.com>
