@@ -76,7 +76,7 @@ AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&theme=github_dark&hide_border=true&hide=HTML,CSS" />
+      <img src="https://fork-github-readme-stats-beryl.vercel.app/api/top-langs/?username=nagul2&layout=compact&theme=github_dark&hide_border=true&hide=html,css" />
     </td>
     <td align="center">
       <img src="https://fork-github-readme-stats-beryl.vercel.app/api?username=nagul2&show_icons=true&theme=github_dark&hide_border=true" />
