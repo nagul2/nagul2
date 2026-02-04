@@ -87,6 +87,6 @@ AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개
 ---
 
 ## 📫 Contact
-- **Email**: hayani0000@gmail.com  
-- **Study history**: [노션 공부 기록](https://alkaline-earth-ef5.notion.site/233eb3cc19858064b0e5eff3d41101df)  
-- **Blog**: [블로그](https://nagul2.tistory.com/)
+- **Email**: [hayani0000@gmail.com](mailto:hayani0000@gmail.com)
+- **Study history**: <a href="https://alkaline-earth-ef5.notion.site/233eb3cc19858064b0e5eff3d41101df" target="_blank">노션 공부 기록</a>
+- **Blog**: <a href="https://nagul2.tistory.com/" target="_blank">블로그</a>
