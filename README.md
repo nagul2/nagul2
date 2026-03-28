@@ -4,19 +4,34 @@ AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개
 
 ---
 
-## Backend
+## ⚙️ Backend
 - Java, Kotlin, Spring 기반으로 비즈니스 로직을 고려한 설계를 바탕으로 안정적인 백엔드 시스템을 구현하는 역량을 키워가고 있습니다.
 - 과도한 최적화보다는 일정에 맞는 개발 속도를 우선하며, 모니터링을 통해 측정 기반의 합리적인 성능 개선을 지향합니다.
 
 ---
 
-## Frontend
-- AI 시대에 요구되는 풀스택 역량을 갖추기 위해 JavaScript, TypeScript 기반 프론트엔드 기술을 학습하고 있습니다.
-- React, Next.js를 기반으로 사용자 경험을 고려한 화면을 구현하며, 사용자 편의성·성능·유지보수를 함께 고려한 구조를 고민하고 있습니다.
+## 📱 Frontend & Mobile
+- JavaScript, TypeScript 기반 프론트엔드 기술을 학습하며 풀스택 역량을 갖추고 있습니다.
+- React, Next.js 기반의 웹 프론트엔드뿐만 아니라, **React Native와 Expo를 활용한 크로스 플랫폼 앱 개발**로 서비스 영역을 확장하고 있습니다.
+- 사용자 경험과 유지보수성을 모두 고려한 컴포넌트 구조 설계를 고민합니다.
+
+---
+
+## 🤖 AI Orchestration & Modern Workflow
+- **Multi-LLM Cross-Validation**: `tmux` 터미널 분할 환경에서 Claude Code, Gemini CLI 등 다중 AI 모델을 동시에 구동하여 문제 해결과 교차 검증을 수행합니다.
+- **Agent-First IDE**: 구글 **Antigravity**를 활용해 여러 에이전트에게 비동기적으로 작업을 할당하고, 바이브 코딩(Vibe Coding)을 통해 초기 보일러플레이트 작성과 브라우저 테스트 자동화 속도를 극대화합니다.
+- **Human-in-the-Loop**: 단일 AI의 결과물을 맹신하지 않고, 시스템 아키텍처와 비즈니스 요구사항에 가장 적합한 로직을 개발자가 직접 판단 및 검토하여 최종 반영하는 철저한 워크플로우를 지향합니다.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+<h3 align="center">IDE & Editor</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -30,12 +45,14 @@ AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개
   <img src="https://img.shields.io/badge/Querydsl-8C2EAA?style=for-the-badge"/>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend & Mobile</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-E32F26?style=for-the-badge"/>
 </p>
@@ -54,6 +71,13 @@ AI 시대에 맞춰 기획과 개발 역량을 함께 키워가는 풀스택 개
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<h3 align="center">Productivity & AI Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 </p>
 
 <h3 align="center">Testing & ETC</h3>
